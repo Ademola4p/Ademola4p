@@ -1,16 +1,25 @@
-## Hi there 👋
+![Screenshot 2024-12-17 103335](https://github.com/user-attachments/assets/06def8a3-2647-4ad1-8b28-6d283127472d)
 
-<!--
-**Ademola4p/Ademola4p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there 👋
 
-Here are some ideas to get you started:
+I am a software developer from Nigeria.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤔 Current Status
+
+🔭 I’m currently doing Large Language model post-training research.
+
+💬 Ask me about
+
+Software Development in C#  •  .NET •  Python •  Javascipt  •  ReactJS  •  HTML/CSS  •  TypeScript  •  WordPress  •  Django  •  AI/ML  •  NextJS  •  SQL  •  Angular  •  Flutter
+
+📫 How to reach me:
+
+Email: ademolaagbadebo@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/ademola-gbadebo-98690b99/
+
+⚡ Fun fact:
+
+👨🏼‍🍳 Can Cook
+
+♥️ Coding
